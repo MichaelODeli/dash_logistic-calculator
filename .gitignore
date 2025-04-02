@@ -3,3 +3,5 @@ formulas input/
 *.ipynb
 input.txt
 __pycache__
+build/
+dist/
